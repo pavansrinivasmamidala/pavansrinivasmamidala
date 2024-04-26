@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Svelte
 - 💞️ I’m looking to collaborate on Interesting projects
 - 📫 You can reach me at [linkedin.com/pavan-srinivas-mamidala](https://www.linkedin.com/in/pavan-srinivas-mamidala/)
-- 💼 Check out my portfolio [pavansrinivas.info](https://pavansrinivas.tech)
+- 💼 Check out my portfolio [pavansrinivas.tech](https://pavansrinivas.tech)
 <!---
 pavansrinivasmamidala/pavansrinivasmamidala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
